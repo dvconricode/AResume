@@ -91,3 +91,25 @@ section p {
     margin-left: 40px;
     line-height: 80px;
 }
+
+.qrCode {
+    height: 200px;
+    width: auto;
+}
+
+.floatRight {
+    float: right;
+}
+
+.target {
+    height: 100px;
+    width: auto;
+}
+
+.floatLeft {
+    float: left;
+}
+
+.scanable {
+    width: 250px;
+}
